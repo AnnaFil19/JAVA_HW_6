@@ -4,7 +4,7 @@ public class HW5 {
         phoneBook.add("123456789", "Анна");
         phoneBook.add("987654321", "Иван");
         phoneBook.add("456789123", "Владимир");
-        phoneBook.add("321654987", "Иван");
+        phoneBook.add("321654987", "Иван--");
         phoneBook.add("789123456", "Алексадра");
         phoneBook.add("654987321", "Сергей");
         phoneBook.add("234567891", "Иван");
